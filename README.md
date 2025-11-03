@@ -93,11 +93,10 @@ If you use this dataset, please cite our research paper:
   pages={508-513},
   keywords={Training;Target tracking;Accuracy;Military computing;Surveillance;Computational modeling;Radar tracking;Real-time systems;Drones;Videos;Drone;KIIT-MiTA;Military;Object Detection;YOLOv11;Tracking},
   doi={10.1109/ISACC65211.2025.10969335}}
-
+```
 
 ---
-
-## 🛠 Recommended Usage
+# 🛠 Recommended Usage
 This dataset is **ideal for training deep learning-based object detection models** such as:
 - **YOLOv4, YOLOv5, and YOLOv8**
 - **Faster R-CNN**
@@ -118,9 +117,7 @@ For any questions or contributions, feel free to reach out via email or connect 
 ---
 
 ## ⭐ Acknowledgment
-We appreciate the support of **KIIT University** and **Dr. Rajdeep Chatterjee** sir for facilitating this research and providing computational resources for dataset preparation.
+We appreciate the support of **KIIT University** and **Dr. Rajdeep Chatterjee** for facilitating this research and providing computational resources for dataset preparation.
 
 ---
-
-
 
